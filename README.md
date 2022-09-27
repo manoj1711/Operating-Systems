@@ -20,6 +20,10 @@ b. Assume that no process waits on I/O devices.
 ![8](https://user-images.githubusercontent.com/113223927/192583079-99ecabf5-bbf9-47a3-863b-9c374563d51f.png)
 9. Design a C program to simulate the concept of Dining-Philosophers problem
 ![9](https://user-images.githubusercontent.com/113223927/192583180-938b0010-94e7-42d8-99cc-a7f7c3d14775.png)
+10. Construct a C program for implementation of memory allocation using first fit strategy.
+![10](https://user-images.githubusercontent.com/113223927/192585726-8f6a4d2a-c80f-402e-98f4-31089e277178.png)
+
+
 
 
 
