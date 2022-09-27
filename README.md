@@ -15,7 +15,7 @@ b. Assume that no process waits on I/O devices.
 6. Construct a C program to simulate Round Robin scheduling algorithm with C.
 ![6](https://user-images.githubusercontent.com/113223927/192582927-89035895-3449-482c-b338-553c6bdd6cae.png)
 7. Illustrate the concept of inter-process communication using shared memory with a C program.  
-
+![7](https://user-images.githubusercontent.com/113223927/192587946-9482e8bc-198e-44e5-b79f-0a9b8770dbe7.jpg)
 8. Illustrate the concept of multithreading using a C program.
 ![8](https://user-images.githubusercontent.com/113223927/192583079-99ecabf5-bbf9-47a3-863b-9c374563d51f.png)
 9. Design a C program to simulate the concept of Dining-Philosophers problem
